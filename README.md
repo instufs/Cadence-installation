@@ -21,12 +21,12 @@ Este tutorial segue o conteúdo de alguns vídeos (“Vídeos úteis”), mas po
 
 A Seção 6 do Capítulo 2: “Instalação do Windows” é obrigatória, mesmo que sua máquina já tenha o Windows instalado.
 
-Vídeos úteis:
+*Vídeos úteis:*
 
 	Install Rocky Linux - Dual Boot With Windows (https://youtu.be/WQQu3M_5VVc?si=C1owa3wJMjIhD5rR)
-	Como fazer DUAL BOOT com Windows 10 e Linux - Tutorial FÁCIL - 2021	(https://www.youtube.com/watch?v=6D6L9Wml1oY&t=304s)
+	Como fazer DUAL BOOT com Windows 10 e Linux - Tutorial FÁCIL - 2021 (https://www.youtube.com/watch?v=6D6L9Wml1oY&t=304s)
  
-Links úteis: 
+*Links úteis:* 
 
 	https://rufus.ie/pt_BR/ 
 	https://rockylinux.org/pt-BR/download
