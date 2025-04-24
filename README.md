@@ -3,7 +3,10 @@ Este repositório contém todos os passos necessários para instalar e utilizar 
 
 ## Instalação da Máquina Virtual
 Na pasta "Virtual Box" se encontram manuais para instalar uma máquina virtual no seu computador Windows. Assim, não será necessário ter um computador com Linux ou fazer o dual boot.
+*Link para instalação:*
 
+     https://www.virtualbox.org/wiki/Downloads
+  
 ## Dual Boot
 Caso deseje obter o Linux como máquina operacional em seu PC, a pasta "Dual Boot" contém manuais para que seu computador execute dois sistemas operacionais.
 
