@@ -51,3 +51,7 @@ Essa pasta contém todos os complementos necessários para instalar o Cadence co
 | **Outros**            | `tk`, `redhat-lsb-core`                                                                   | Toolkit gráfico Tcl/Tk e conformidade com o Linux Standard Base           |
 
 ## Instalação do Software
+1° - Instalação e configuração do Virtuoso
+*Link com guia do Cadence*
+
+               https://support.cadence.com/apex/ArticleAttachmentPortal?id=a1O3w000009y0fFEAQ&pageName=ArticleContent
