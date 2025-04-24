@@ -37,5 +37,17 @@ A Seção 6 do Capítulo 2: “Instalação do Windows” é obrigatória, mesmo
 
 ## Complementos
 Essa pasta contém todos os complementos necessários para instalar o Cadence com sucesso. Portanto, instale em seu computador antes de iniciar o processo a seguir.
+### 🧾 Descrição dos pacotes
+
+| Categoria             | Pacotes                                                                                  | Descrição                                                                 |
+|-----------------------|-------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
+| **Rede e LDAP**       | `autofs`, `net-tools`, `nfs-utils`, `nss-pam-ldapd`, `openldap-clients`, `ftp`           | Montagem automática, ferramentas de rede, cliente NFS, integração com LDAP |
+| **Email**             | `sendmail-cf`, `sendmail`, `mailx`                                                       | Servidor de email e cliente de linha de comando                           |
+| **Shells e Terminal** | `ksh`, `tcsh`, `xterm`                                                                    | Shells adicionais e emulador de terminal para X11                         |
+| **Utilitários**       | `mlocate`, `expect`, `ipmitool`                                                           | Localização de arquivos, automação de terminais, gerenciamento IPMI      |
+| **Ambiente Gráfico**  | `xorg-x11-server-Xvfb`, `xorg-x11-fonts-ISO8859-1-75dpi`, `vim-X11`                       | Suporte a aplicações gráficas sem display, fontes X11, editor gráfico     |
+| **Perl e Scripts**    | `perl-LDAP`, `perl-Convert-ASN1`, `perl-Env`                                              | Módulos Perl para LDAP, ASN.1 e variáveis de ambiente                     |
+| **Compatibilidade**   | `ncurses-compat-libs`, `libnsl`, `libpng12`, `libjpeg-turbo-utils`, `compat-openssl10`   | Bibliotecas legadas para compatibilidade com softwares antigos            |
+| **Outros**            | `tk`, `redhat-lsb-core`                                                                   | Toolkit gráfico Tcl/Tk e conformidade com o Linux Standard Base           |
 
 ## Instalação do Software
